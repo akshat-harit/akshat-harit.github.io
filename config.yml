@@ -42,11 +42,12 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-16x16.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "apple-touch-icon.png"
+    android_touch_icon: "apple-touch-icon.png"
 
   label:
     text: "Home"
@@ -74,20 +75,20 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+     - name: twitter
+       url: "https://twitter.com/"
+     - name: stackoverflow
+       url: "https://stackoverflow.com"
+     - name: github
+       url: "https://github.com/"
 
-  analytics:
-    google:
-      SiteVerificationTag: ""
-    bing:
-      SiteVerificationTag: ""
-    yandex:
-      SiteVerificationTag: ""
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: ""
+  #   bing:
+  #     SiteVerificationTag: ""
+  #   yandex:
+  #     SiteVerificationTag: ""
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -95,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/akshat-harit/akshat-harit.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -119,9 +120,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: About
+      name: About Me
+      url: /about/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
