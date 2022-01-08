@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Akshat Harit&#39;s blog</title>
-    <link>https://akshat-harit.github.io/posts/</link>
-    <description>Recent content in Posts on Akshat Harit&#39;s blog</description>
+    <title>baking on Akshat Harit&#39;s blog</title>
+    <link>https://akshat-harit.github.io/tags/baking/</link>
+    <description>Recent content in baking on Akshat Harit&#39;s blog</description>
     <image>
       <url>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Jan 2022 19:00:15 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 19:00:15 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/tags/baking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pullman Bread</title>
       <link>https://akshat-harit.github.io/posts/pullman_bread/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://akshat-harit.github.io/posts/pullman_bread/</guid>
       <description>Basic sandwich bread recipe</description>
-    </item>
-    
-    <item>
-      <title>2022 Resolutions</title>
-      <link>https://akshat-harit.github.io/posts/2022-resolutions/</link>
-      <pubDate>Sat, 01 Jan 2022 17:49:50 -0800</pubDate>
-      
-      <guid>https://akshat-harit.github.io/posts/2022-resolutions/</guid>
-      <description>2022 stuff</description>
     </item>
     
   </channel>
