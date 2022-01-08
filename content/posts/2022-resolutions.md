@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-2022 is here. And I wanted to be more open and share more about myself with the world. 
+2022 is here. And I wanted to be more open and share more about myself with the world.
 
 So starting a new blog. This will be a collection of my thoughts various topics.
 
