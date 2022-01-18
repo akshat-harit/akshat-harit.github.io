@@ -7,10 +7,10 @@ tags: ["cooking"]
 author: "Akshat Harit"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: true
-description: "DESC TEXT"
+description: "How I make coffee."
 canonicalURL: "https://akshat-harit.github.io/posts/coffee/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
