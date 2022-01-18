@@ -20,5 +20,6 @@ Have watched Calvacade(boring), Cimmaron(boring), All quiet on the Western Front
 Book Review
 Farseer trilogy.
 
+hugo new contents/posts/abc.md
 
 
