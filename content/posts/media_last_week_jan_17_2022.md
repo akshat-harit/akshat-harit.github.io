@@ -12,7 +12,6 @@ hidemeta: false
 comments: true
 description: "Media I consumed around January 17, 2022"
 canonicalURL: "https://akshat-harit.github.io/posts/media_last_week_jan_17_2022/"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -93,7 +92,7 @@ If you like Martian, you'll probably like this. Has some nifty concepts.
 
 I'd recommend this one for prose and description. The ending didn't satisfy me and raised more questions. In my opinion the world would have fundamentally changed due to the things that happened in the book, which doesn't happen. But the protagonist's voice is just so charming that you can't help but continue reading.
 
-Assassin's Apprentice (The Farseer Trilogy, Book 1)
+### Assassin's Apprentice (The Farseer Trilogy, Book 1)
 This almost felt like I need to read the following books. A lot of world building happens, but not much else till the ending 50 pages of the books. Felt that this was written in a combination with perhaps the next book, and author had to end it here due to word count and came up with a conflict along with resolution. Will probably have opinions here after reading the following book.
 
 ### Elantris

@@ -12,7 +12,6 @@ hidemeta: false
 comments: true
 description: "DESC TEXT"
 canonicalURL: "https://akshat-harit.github.io/posts/computer_literacy/"
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
