@@ -13,7 +13,7 @@ comments: true
 description: "Moderately tasty banana bread recipe that can server as a full meal substitute"
 canonicalURL: "https://akshat-harit.github.io/posts/soylent_banana_bread/"
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

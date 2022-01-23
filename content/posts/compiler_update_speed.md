@@ -14,7 +14,7 @@ description: "DESC TEXT"
 canonicalURL: "https://akshat-harit.github.io/posts/compiler_update_speed/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

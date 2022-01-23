@@ -12,9 +12,8 @@ hidemeta: false
 comments: true
 description: "Basic sandwich bread recipe"
 canonicalURL: "https://akshat-harit.github.io/posts/pullman_bread/"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

@@ -13,7 +13,7 @@ comments: true
 description: "DESC TEXT"
 canonicalURL: "https://akshat-harit.github.io/posts/computer_literacy/"
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

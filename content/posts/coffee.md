@@ -12,7 +12,7 @@ hidemeta: false
 comments: true
 description: "How I make coffee."
 canonicalURL: "https://akshat-harit.github.io/posts/coffee/"
-disableHLJS: false # to disable highlightjs
+disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
 searchHidden: true

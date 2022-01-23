@@ -14,7 +14,6 @@ description: "DESC TEXT"
 canonicalURL: "https://akshat-harit.github.io/posts/who_asks_the_questions/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

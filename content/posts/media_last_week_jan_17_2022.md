@@ -13,7 +13,7 @@ comments: true
 description: "Media I consumed around January 17, 2022"
 canonicalURL: "https://akshat-harit.github.io/posts/media_last_week_jan_17_2022/"
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

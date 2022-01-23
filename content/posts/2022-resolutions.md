@@ -13,7 +13,7 @@ comments: true
 description: "2022 stuff"
 canonicalURL: "https://akshat-harit.github.io/posts/2022-resolutions/"
 disableShare: false
-disableHLJS: false
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
