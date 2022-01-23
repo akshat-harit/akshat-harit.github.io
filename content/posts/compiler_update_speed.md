@@ -33,3 +33,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Collect data about updates on C#, dot net, and C++ compiler versions and see if performance improvements should justify that everyone makes compiler upgrades a priority over everything. Hypothesis is that compiler upgrades should be mostly boring but simple work. But could have the potential to give greater bang for buck than other technically interesting but longer term projects. Even small percentage of improvement should make this a priority for any company that cares about resource usage. 
