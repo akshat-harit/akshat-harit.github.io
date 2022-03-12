@@ -82,9 +82,9 @@ params:
 #     - name: github
 #       url: "https://github.com/"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: ""
+  analytics:
+    google:
+      SiteVerificationTag: "erTAE5oaXRQcZWwjRqOxvq1qoL29FZK5XMxkK8aJc1Q"
   #   bing:
   #     SiteVerificationTag: ""
   #   yandex:
