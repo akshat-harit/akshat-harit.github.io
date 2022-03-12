@@ -7,7 +7,7 @@ tags: ["computer science", "movies", "baking", "cooking", "misc"]
 author: "Akshat Harit"
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
 description: "DESC TEXT"

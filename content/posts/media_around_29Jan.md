@@ -1,5 +1,5 @@
 ---
-title: "Media Around 29Jan"
+title: "Media Around 29 Jan 2022"
 date: 2022-01-29T14:47:13-08:00
 # weight: 1
 # aliases: ["/first"]
@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "DESC TEXT"
+description: ""
 canonicalURL: "https://akshat-harit.github.io/posts/media_around_29Jan/"
 disableShare: false
 disableHLJS: true
@@ -23,8 +23,8 @@ ShareButtons: ["reddit", "ycombinator", "facebook"]
 
 cover:
     image: "<image path/url>" # image path/url
-    alt: "Media Around 29Jan"
-    caption: "Media Around 29Jan"
+    alt: "Media Around 29 Jan 2022"
+    caption: "Media Around 29 Jan 2022"
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -41,17 +41,17 @@ First multi character film, that wasn't a war film? It did keep me engaged while
 
 ### Cavalcade 1933
 
-I hated this one. Mostly because of one scene. A newly married woman and man on a ship, talking about their plans for the future. They leave and camera pans to the life to the life guard floater thing showing the name Titanic. 
+I hated this one. Mostly because of one scene. A newly married woman and man on a ship, talking about their plans for the future. They leave and camera pans to the life to the life guard floater thing showing the name Titanic.
 And could have been an interesting commentary on inter class marriage, but the resolution was that people died, so society doesn't have to confront the system.
 It is historically interesting though, in the sense of finding out what were the important historical events that people thought should be in a movie.
 
 ### It Happened One Night 1934
 
-I had seen this before. OK movie. I think this suffers from being one of those works that established the genre conventions so longer feels as remarkable as it was, when it was made. I wouldn't mind recommending it to anyone though. The plan scene was interesting, especially seeing how far we have come from Wings. 
+I had seen this before. OK movie. I think this suffers from being one of those works that established the genre conventions so longer feels as remarkable as it was, when it was made. I wouldn't mind recommending it to anyone though. The "plane" scene was interesting, especially seeing how far we have come from Wings.
 
-### Mutiny On The Bounty 1935
+### Mutiny On The Bounty 1935  
 
-Second Clark Gable movie. Does suffer from the white savior for native issues. Interesting watching a move set on a ship though and inspired by real life events. Lookup the wikipedia page for the movie and section on historical accuracy. 
+Second Clark Gable movie. Does suffer from the white savior for native issues. Interesting watching a move set on a ship though and inspired by real life events. Lookup the wikipedia page for the movie and section on historical accuracy.
 I didn't realize while watching the movie that it was based on real life events. This incident apparently resulted in major changes for naval procedures so at least interesting to watch from that perspective.
 
 ## Books
@@ -70,7 +70,7 @@ Some very interesting ideas about aliens visiting Earth as a pit stop, and leavi
 ### Spelunky 2
 
 It is a rogue like where if you die, you start from the beginning with a procedurally generated level. So you can't memorize and mistakes are punished.
-Really hard game! I am essentially stuck but it always feels like if you were just a little bit more patient, you could do better. Also, fun to play on co-op though as the other player can revive you. Con of playing in co-op is you can't use shortcuts that you unlock when playing on single player. 
+Really hard game! I am essentially stuck but it always feels like if you were just a little bit more patient, you could do better. Also, fun to play on co-op though as the other player can revive you. Con of playing in co-op is you can't use shortcuts that you unlock when playing on single player.
 
 ### Resident Evil 7
 
@@ -87,4 +87,4 @@ I don't want to spoil anything but the ending is great!
 
 ### Renpy
 
-Looked at renpy for writing a visual novel. I couldn't help but try to add more structure in it. For some reason. I thought computer science would actually be an issue while writing a visual novel, but it seems it is essentially the writing that is going to take the most time. I petered out pretty quickly. 
+Looked at renpy for writing a visual novel. I couldn't help but try to add more structure in it. For some reason. I thought computer science would actually be an issue while writing a visual novel, but it seems it is essentially the writing that is going to take the most time. I petered out pretty quickly.

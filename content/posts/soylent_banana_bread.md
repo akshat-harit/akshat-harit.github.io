@@ -40,7 +40,7 @@ But I did find a sort of complete meal banana bread recipe that I still make som
 
 The completefoods site seems down, so just adding a copy here for my own use
 
-Copy of 
+Copy of
 [https://www.completefoods.co/diy/recipes/baked-banana-soylent-bread-v50-wheatmoist-2400-kcal](https://www.completefoods.co/diy/recipes/baked-banana-soylent-bread-v50-wheatmoist-2400-kcal)
 Baked Banana Soylent Bread v5.0 [wheat][moist!] - 2400 kcal by abemore
 

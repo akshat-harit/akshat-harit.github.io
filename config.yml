@@ -1,6 +1,6 @@
 baseURL: "https://akshat-harit.github.io/"
 title: Akshat Harit's blog
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
