@@ -9,29 +9,38 @@
       <link>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jan 2022 16:47:32 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>computer science</title>
-      <link>https://akshat-harit.github.io/tags/computer-science/</link>
-      <pubDate>Sat, 22 Jan 2022 16:47:32 -0800</pubDate>
-      
-      <guid>https://akshat-harit.github.io/tags/computer-science/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 29 Jan 2022 14:47:13 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>baking</title>
       <link>https://akshat-harit.github.io/tags/baking/</link>
-      <pubDate>Mon, 17 Jan 2022 21:36:28 -0800</pubDate>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
       
       <guid>https://akshat-harit.github.io/tags/baking/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>computer science</title>
+      <link>https://akshat-harit.github.io/tags/computer-science/</link>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
+      
+      <guid>https://akshat-harit.github.io/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cooking</title>
+      <link>https://akshat-harit.github.io/tags/cooking/</link>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
+      
+      <guid>https://akshat-harit.github.io/tags/cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>misc</title>
       <link>https://akshat-harit.github.io/tags/misc/</link>
-      <pubDate>Mon, 17 Jan 2022 20:29:07 -0800</pubDate>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
       
       <guid>https://akshat-harit.github.io/tags/misc/</guid>
       <description></description>
@@ -40,18 +49,9 @@
     <item>
       <title>movies</title>
       <link>https://akshat-harit.github.io/tags/movies/</link>
-      <pubDate>Mon, 17 Jan 2022 20:29:07 -0800</pubDate>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
       
       <guid>https://akshat-harit.github.io/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cooking</title>
-      <link>https://akshat-harit.github.io/tags/cooking/</link>
-      <pubDate>Mon, 17 Jan 2022 20:08:02 -0800</pubDate>
-      
-      <guid>https://akshat-harit.github.io/tags/cooking/</guid>
       <description></description>
     </item>
     

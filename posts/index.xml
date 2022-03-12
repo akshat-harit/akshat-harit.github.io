@@ -9,7 +9,16 @@
       <link>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Jan 2022 16:47:32 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 14:47:13 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media Around 29Jan</title>
+      <link>https://akshat-harit.github.io/posts/media_around_29jan/</link>
+      <pubDate>Sat, 29 Jan 2022 14:47:13 -0800</pubDate>
+      
+      <guid>https://akshat-harit.github.io/posts/media_around_29jan/</guid>
+      <description>DESC TEXT</description>
+    </item>
+    
     <item>
       <title>Bit flips with Enums/flags</title>
       <link>https://akshat-harit.github.io/posts/no_zero_enum_flag/</link>
@@ -19,7 +28,7 @@
       <description>TLDR If you can avoid code where an if else flag variable differ by a single bit, do it.
 Or at least make sure that your code is better at error handling. The following is a hypothetical situation that didn&amp;rsquo;t happen anywhere and caused no live sites.
 Details The code was similar to
-if (str[0] == &amp;#39;0&amp;#39;) do_part1(str[1:]) else if (str[0] == &amp;#39;1&amp;#39;): do_part2(str[1:]) else: do_error_handling() If you think &amp;lsquo;0&amp;rsquo; and &amp;lsquo;1&amp;rsquo; are icky, replace it with an enum flag.</description>
+if (str[0] == &amp;#39;0&amp;#39;)  do_part1(str[1:]) else if (str[0] == &amp;#39;1&amp;#39;):  do_part2(str[1:]) else:  do_error_handling() If you think &amp;lsquo;0&amp;rsquo; and &amp;lsquo;1&amp;rsquo; are icky, replace it with an enum flag.</description>
     </item>
     
     <item>
