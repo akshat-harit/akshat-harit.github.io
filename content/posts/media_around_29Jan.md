@@ -3,7 +3,7 @@ title: "Media Around 29 Jan 2022"
 date: 2022-01-29T14:47:13-08:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["computer science", "movies", "baking", "cooking", "misc"]
+tags: ["movies", "misc"]
 author: "Akshat Harit"
 showToc: true
 TocOpen: false
