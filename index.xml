@@ -9,7 +9,16 @@
       <link>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Mar 2022 13:37:06 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 15:21:50 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better interviewer?</title>
+      <link>https://akshat-harit.github.io/posts/who_asks_the_questions/</link>
+      <pubDate>Sat, 12 Mar 2022 15:21:50 -0800</pubDate>
+      
+      <guid>https://akshat-harit.github.io/posts/who_asks_the_questions/</guid>
+      <description>How to figure out someone is a good software engineer in 50 minutes and also tell someone that you are a good one too.</description>
+    </item>
+    
     <item>
       <title>Mango Cake</title>
       <link>https://akshat-harit.github.io/posts/mango_cake/</link>
