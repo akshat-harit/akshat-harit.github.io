@@ -9,7 +9,25 @@
       <link>https://akshat-harit.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Mar 2022 15:21:50 -0800</lastBuildDate><atom:link href="https://akshat-harit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Mar 2022 16:22:50 -0700</lastBuildDate><atom:link href="https://akshat-harit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keywest Mango Ginger Lime Cake</title>
+      <link>https://akshat-harit.github.io/posts/keywest_mango_ginger_lime_cake/</link>
+      <pubDate>Sat, 19 Mar 2022 16:22:50 -0700</pubDate>
+      
+      <guid>https://akshat-harit.github.io/posts/keywest_mango_ginger_lime_cake/</guid>
+      <description>Key West Mango Ginger Lime Cake</description>
+    </item>
+    
+    <item>
+      <title>Jitter Background Timer</title>
+      <link>https://akshat-harit.github.io/posts/jitter_background_timer/</link>
+      <pubDate>Sat, 19 Mar 2022 15:47:20 -0700</pubDate>
+      
+      <guid>https://akshat-harit.github.io/posts/jitter_background_timer/</guid>
+      <description>Adding jitter to background threads</description>
+    </item>
+    
     <item>
       <title>Better interviewer?</title>
       <link>https://akshat-harit.github.io/posts/who_asks_the_questions/</link>
